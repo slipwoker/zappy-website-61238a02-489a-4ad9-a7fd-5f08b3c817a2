@@ -1,0 +1,106 @@
+# כתר לראשי — Generative Engine Optimization Map
+
+> צור לי אתר
+
+---
+
+## Pages
+
+### בית
+https://-61238a02.zappy5.app
+מחפשת כתר ראש לכלות ולאירועים שמשדר יוקרה וצניעות? גלי את הקולקציה הייחודית של כתר לראשי, עם מטפחות וכיסויי ראש מרהיבים. הכנסי עכשיו והתחילי לחלום!
+
+### אומנות
+https://-61238a02.zappy5.app/craftsmanship
+איך נוצר כתר ראש שמשלב מסורת, צניעות וסטייל מודרני? הציצי אל מאחורי הקלעים של תהליך היצירה הקפדני שלנו, ותביני למה כל כלה מתרגשת מאיתנו. בואי לגלות את הקסם.
+
+### אודות
+https://-61238a02.zappy5.app/about
+מי אנחנו ולמה אנחנו כל כך אוהבים ליצור כתרים שמשנים מראה של כלה? הכירי את החזון, האהבה לצניעות והתשוקה לפרטים קטנים שמניעים את כתר לראשי. הסיפור שלנו יחכה לך.
+
+### צור קשר
+https://-61238a02.zappy5.app/contact
+רוצה כתר ראש מותאם אישית לאירוע שלך? מלאי את הפרטים בטופס צור קשר, ונדאג ללוות אותך עד לכתר המושלם. הצעד הראשון להגשמת החלום מתחיל כאן — כתבי לנו עכשיו!
+
+### Products
+https://-61238a02.zappy5.app/products
+המוצרים שלנו - כתר לראשי
+
+### Cart
+https://-61238a02.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-61238a02.zappy5.app/checkout
+תשלום
+
+### Login
+https://-61238a02.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-61238a02.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-61238a02.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-61238a02.zappy5.app/product/:slug
+פרטי המוצר - כתר לראשי
+
+### Category
+https://-61238a02.zappy5.app/category/:slug
+מוצרים - כתר לראשי
+
+### תודה שפנית אלינו
+https://-61238a02.zappy5.app/thank-you
+כתר לראשי - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-61238a02.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-61238a02.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-61238a02.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About כתר לראשי
+צור לי אתר
+
+## Target Audience
+- זוגות צעירים
+- מתכנני אירועים
+- רוכשי מתנות תאגידיות
+- נשים דתיות
+- נשים צעירותיה
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-61238a02.zappy5.app/sitemap.xml
+- Robots: https://-61238a02.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-61238a02.zappy5.app/llms-full.txt
+- Products (JSON): https://-61238a02.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-61238a02.zappy5.app/product-feed.xml
